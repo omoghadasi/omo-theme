@@ -1,0 +1,21 @@
+{
+  "name": "omo-theme",
+  "displayName": "omo theme",
+  "description": "omo theme :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "omo theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/omo theme-color-theme.json"
+      }
+    ]
+  }
+}

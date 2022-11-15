@@ -280,7 +280,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#486ebe"
+        "foreground": "#ff5572"
       }
     },
     {
@@ -305,10 +305,31 @@
       }
     },
     {
+      "name": "css numeric",
+      "scope": "constant.numeric.css",
+      "settings": {
+        "foreground": "#ff5572"
+      }
+    },
+    {
+      "name": "css hex color",
+      "scope": "constant.other.color.rgb-value.hex.css",
+      "settings": {
+        "foreground": "#ff5572"
+      }
+    },
+    {
+      "name": "css # hex color",
+      "scope": "punctuation.definition.constant.css",
+      "settings": {
+        "foreground": "#959DCB"
+      }
+    },
+    {
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#486ebe"
+        "foreground": "#f07178"
       }
     },
     {
@@ -785,7 +806,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#486ebe"
+        "foreground": "#ffcb6b"
       }
     },
     {
@@ -801,7 +822,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#486ebe"
+        "foreground": "#60baec"
       }
     },
     {
@@ -980,7 +1001,7 @@
       "name": "Embedded",
       "scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
       "settings": {
-        "foreground": "#f580ff"
+        "foreground": "#777BB3"
       }
     },
     {
@@ -1455,7 +1476,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#959dcb"
+        "foreground": "#676e95"
       }
     },
     {

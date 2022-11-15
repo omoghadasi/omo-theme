@@ -3,6 +3,21 @@
   "displayName": "omo theme",
   "description": "omo theme :)",
   "version": "0.0.1",
+  "publisher": "omotheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omoghadasi/omo-theme"
+  },
+  "keywords": [
+    "theme",
+    "omid",
+    "omoghadasi",
+    "omo",
+    "omo theme",
+    "one dark",
+    "material theme",
+    "flat theme"
+  ],
   "engines": {
     "vscode": "^1.73.0"
   },

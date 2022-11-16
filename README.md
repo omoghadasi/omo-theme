@@ -10,6 +10,10 @@
 
 ## screenshot
 
+### main style
+
+![omo theme flat screenshot](images/screenshot-main.png)
+
 ### flat style
 
 ![omo theme flat screenshot](images/screenshot-flat.png)

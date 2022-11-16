@@ -2,7 +2,7 @@
   "name": "omo-theme",
   "displayName": "omo theme",
   "description": "Dark theme with a taste of the love",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "icon": "images/icon.png",
   "publisher": "omoghadasi",
   "author": {
@@ -35,7 +35,12 @@
       {
         "label": "omo theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/omo-flat-color-theme.json"
+        "path": "./themes/omo-theme.json"
+      },
+      {
+        "label": "omo theme flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/omo-theme-flat.json"
       }
     ]
   }
